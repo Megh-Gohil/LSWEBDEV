@@ -1,0 +1,79 @@
+#Navbar1{
+  background-color: darkblue;
+  position:absolute;
+  top:100px;
+  right:10px;  
+  width:610px;
+  height:50px;
+}
+#bottom{
+  position:absolute;
+  top:150px;
+  height:max-content;
+  width:100%;
+}
+#top{
+  background-image: url("src/back.jpg");
+  top:0px;
+  height:150px;
+  width:auto;
+}
+#pg{
+  font-family:Arial, Helvetica, sans-serif;
+}
+#upper{
+  border:10px grey;
+  position:absolute;
+  top:0px;
+  left:0px;
+  width:500px;
+  height:300px;
+}
+img{
+  border:10px solid grey;
+  height:180px;
+  width:240px;
+}
+#facility{
+  position: absolute;
+  right:0px;
+  top:0px;
+  background-color: white;
+  width:fit-content;
+  height:fit-content;
+}
+#reviews{
+  background-image: url("src/back1.jpg");
+  position: absolute;
+  right:800px;
+  top:0px;
+}
+p{
+  color:black;
+  border:100px black;
+  font-style: italic;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#subscribe{
+  background-image: url("src/back.jpg");
+  height:fit-content;
+  position:absolute;
+  width:fit-content;
+  right:150px;
+  top:250px;
+}
+h2{
+  color:black;
+}
+h1{
+  color:aquamarine;
+  font-weight: 200;
+  font-style: oblique;
+  font-family: sans-serif;
+}
+h4{
+  color:aquamarine;
+  font-weight: 200;
+  font-style: oblique;
+  font-family: sans-serif;
+}
